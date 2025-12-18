@@ -1,2 +1,2 @@
-# github-learning-
-My first GitHub repo
+# GitHub Learning
+Learning GitHub step by step using my phone.
